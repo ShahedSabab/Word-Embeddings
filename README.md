@@ -22,11 +22,11 @@ The tweets are vectorized using four different embedding approaches. Those are t
 
 The following steps are performed:
 
-• Pre-trained embeddings are used for vectorization.
-• Average word-embeddings are taken to represent texts.
-• The embeddings are visualized in 2D plane to check linear separability between the two classes.
-• Classification has been performed using Logistic Regression.
-• Devis Bouldin Index and Silhouette Index are calculated.
+1. Pre-trained embeddings are used for vectorization.
+2. Average word-embeddings are taken to represent texts.
+3. The embeddings are visualized in 2D plane to check linear separability between the two classes.
+4. Classification has been performed using Logistic Regression.
+5. Devis Bouldin Index and Silhouette Index are calculated.
 
 # Performance Metric:
 
