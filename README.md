@@ -43,7 +43,7 @@ Three performance metrics have been chosen. Those are the followings:
 <img src="lexVec_embedding.PNG" width="60%">
 
 #### Evaluation:
-<img src="performance.PNG" width="60%">
+<img src="performance.PNG" width="40%">
 
 # How to run:
 
@@ -62,4 +62,5 @@ The following files have to be in the same directory to run the main python file
 5. wiki.simple.vec (pre-trained embeddings for FastText)
 6. lexvec.enwiki+newscrawl.300d.W.pos.vectors (pre-trained embeddings for LexVec)
 
-The files can be found in the following drive:
+The files can be found in the following link:
+https://drive.google.com/drive/folders/1PKr0rBGMaENI9gyh4dwyVyIsaJ8k0Ga8?usp=sharing
