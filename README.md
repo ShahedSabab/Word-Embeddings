@@ -29,14 +29,21 @@ Three performance metrics have been chosen. Those are the followings:
 3. Silhouette Index: Measure the distance between each data point, the centroid of the cluster it was assigned to and the closest centroid belonging to another cluster. The value ranges between 1 and -1 when the best separation is indicated as 1, 0 indicates overlapping and, worst is -1. Negative values generally indicate the wrong label. 
 
 # Performance:
+
 #### Visualizing Word2Vec Model
 <img src="word2vec_embedding.PNG" width="60%">
+
 #### Visualizing Glove Model
 <img src="glove_embedding.PNG" width="60%">
+
 #### Visualizing FastText Model
 <img src="fastText_embedding.PNG" width="60%">
+
 #### Visualizing LexVec Model
 <img src="lexVec_embedding.PNG" width="60%">
+
+#### Evaluation:
+<img src="performance.PNG" width="60%">
 
 # How to run:
 
